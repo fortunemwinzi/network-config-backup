@@ -1,0 +1,4 @@
+[
+    {"name": "lab-router-1", "source_file": "sample_configs/lab-router-1.cfg"},
+    {"name": "lab-switch-1", "source_file": "sample_configs/lab-switch-1.cfg"}
+  ]
